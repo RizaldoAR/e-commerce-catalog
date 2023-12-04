@@ -2,6 +2,7 @@
 # ecommerce-catalog 
 
 Making a Front-end for E-Commerce-catalog fetched from fakestoreapi.com
+![Uploading image.png…]()
 
 ## Project Setup
 
