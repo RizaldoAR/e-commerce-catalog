@@ -2,7 +2,8 @@
 # ecommerce-catalog 
 
 Making a Front-end for E-Commerce-catalog fetched from fakestoreapi.com
-![Uploading image.png…]()
+![image](https://github.com/RizaldoAR/e-commerce-catalog/assets/36756266/8c150873-f608-4c8d-8edf-ec517458b569)
+
 
 ## Project Setup
 
